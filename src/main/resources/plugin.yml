@@ -1,0 +1,5 @@
+name: PluginManager
+version: '1.0.0'
+main: com.frostplugins.pluginManager.PluginManager
+api-version: '1.21'
+authors: [ xfrost ]
