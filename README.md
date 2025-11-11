@@ -44,4 +44,4 @@ We welcome bug reports, feature suggestions, and Pull Requests! Please review ou
 
 ## 📄 License
 
-This project is released under the **[MIT License](LICENSE)**.
+This project is released under the **[GPL-3.0](LICENSE)**.
